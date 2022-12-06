@@ -18,12 +18,6 @@ Enable venv
 source venv/bin/activate
 ```
 
-### 使用wrapper
-
-```bash
-pip3 install virtualenvwrapper
-```
-
 ## Install
 ```bash
 pip uninstall ankisiyuan
@@ -33,5 +27,5 @@ pip install ankisiyuan
 ## Run
 
 ```bash
-python -m ankisiyuan
+./run.sh
 ```
